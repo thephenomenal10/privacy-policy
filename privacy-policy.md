@@ -1,3 +1,7 @@
+Privacy Policy
+--------------
+
+
 Exam Ghost respects the privacy of it’s users and is committed to protect it in all respects. With a view to offer most enriching and holistic internet experience to it’s users Exam Ghost offers a vast repository of Online Sites and variety of community services. You may read ‘About Us’ to know more about Exam Ghost.
 The information about the user as collected by Exam Ghost is: (a) information supplied by users and (b) information automatically tracked while navigation (Information).
 We gather certain information about the user, such as internet protocol (IP) addresses, domain name, browser type, operating system, the date & time of the visit and the pages visited. 
